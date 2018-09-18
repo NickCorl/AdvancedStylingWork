@@ -6,7 +6,7 @@ Medium green: #55c57a
 Dark green: #28b485
 
 */
- /*Start clean to prevent browser from adding any more margins*/
+/*Start clean to prevent browser from adding any more margins*/
 * {
     margin: 0;
     padding: 0;
@@ -28,11 +28,49 @@ body {
     height: 95vh;
 
     /*Backgropund image can overlap based on order for which they were displayed*/
-    background-image: linear-gradient(to right bottom, rgba(126,213,111, .8), rgba(40 ,180 ,131 , .8)), url('../img/hero.jpg');
+    background-image: linear-gradient(to right bottom, rgba(126, 213, 111, .8), rgba(40, 180, 131, .8)), url('../img/hero.jpg');
     /*Always fit the element inside the box*/
     background-size: cover;
     /*Top of the image will always stay the same based on the browser window size*/
     background-position: top;
 
     clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
+    position: relative;
+}
+
+.logo-box {
+    position: absolute;
+    top: 40px;
+    left: 40px;
+}
+
+.logo {
+    height: 35px;
+}
+
+.text-box {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+/* 50% of the elements height and width to the top*/
+    transform: translate(-50%, -50%);
+}
+
+.heading-primary {
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.heading-primary-main {
+    display: block;
+    font-size: 60px;
+    font-weight: 400;
+    letter-spacing: 35px;
+}
+
+.heading-primary-sub {
+    display: block;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 17.4px;
 }
