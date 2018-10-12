@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="373b2096-e1bc-4e29-9897-c717ef838fb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Natours/starter/sass/components/_story.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/sass/base/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/sass/base/_utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/sass/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/sass/components/_button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/sass/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Natours/starter/sass/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Natours/starter/sass/pages/_home.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +14,7 @@
     <session id="1751864970">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="1" />
@@ -105,8 +98,8 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/Natours/starter/index.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="86">
-                      <caret line="244" column="28" selection-start-line="244" selection-start-column="28" selection-end-line="244" selection-end-column="28" />
+                    <state relative-caret-position="347">
+                      <caret line="253" column="7" lean-forward="true" selection-start-line="253" selection-start-column="7" selection-end-line="253" selection-end-column="7" />
                       <folding>
                         <element signature="n#head#0;n#html#0;n#!!top" />
                         <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
@@ -204,8 +197,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Natours/starter/sass/components/_story.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="72">
-                  <caret line="46" column="24" lean-forward="true" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+                <state relative-caret-position="159">
+                  <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
                 </state>
               </provider>
             </entry>
@@ -352,8 +345,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539286472564" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Natours/final-after-S06/sass/components/_card.scss" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539286621085" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/VagrantVirtServer/247MedStaffLaravel" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -388,16 +381,15 @@
       <workItem from="1537366382003" duration="2342000" />
       <workItem from="1539096081006" duration="19291000" />
       <workItem from="1539182514363" duration="23431000" />
-      <workItem from="1539266565896" duration="8497000" />
+      <workItem from="1539266565896" duration="8685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64837000" />
+    <option name="totallyTimeSpent" value="65025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1273" y="0" width="1294" height="1407" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49514562" weight="0.2649919" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -570,15 +562,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Natours/starter/sass/components/_story.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="46" column="24" lean-forward="true" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+        <state relative-caret-position="159">
+          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Natours/starter/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="244" column="28" selection-start-line="244" selection-start-column="28" selection-end-line="244" selection-end-column="28" />
+        <state relative-caret-position="347">
+          <caret line="253" column="7" lean-forward="true" selection-start-line="253" selection-start-column="7" selection-end-line="253" selection-end-column="7" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
