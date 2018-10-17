@@ -7,6 +7,20 @@ Dark green: #28b485
 
 */
 /*Start clean to prevent browser from adding any more margins*/
+/*
+0-600px:    Phone
+600-900px:  Tablet Portrait
+900-1200px: Tablet Landscape
+1200-1800:  Normal Styles Apply
+1800px + :  Big Screen
+ */
+/*
+$breakpoint argument choices:
+ - phone
+ - tab-port
+ - tab-land
+ - big-desktop
+ */
 *,
 *::after,
 *::before {
@@ -17,6 +31,15 @@ Dark green: #28b485
 /*Root font size*/
 html {
   font-size: 62.5%; }
+  @media (max-width: 56.25em) {
+    html {
+      font-size: 50%; } }
+  @media (max-width: 75em) {
+    html {
+      font-size: 56.25%; } }
+  @media (min-width: 112.5em) {
+    html {
+      font-size: 75%; } }
 
 body {
   box-sizing: border-box; }
@@ -512,8 +535,8 @@ body {
     display: table;
     overflow: hidden;
     opacity: 0;
-    transform: translate(-50%, -50%) scale(0.5);
-    transition: all .4s .2s; }
+    transform: translate(-50%, -50%) scale(0.25);
+    transition: all .5s .2s; }
   .popup__left {
     width: 33.333333%;
     display: table-cell; }
