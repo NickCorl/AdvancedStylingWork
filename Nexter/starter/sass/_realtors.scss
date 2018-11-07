@@ -1,3 +1,4 @@
 .realtors {
   background-color: $color-secondary;
+  grid-column: col-start 7 / full-end; // THis will start after the header column (starting at 7)
 }
